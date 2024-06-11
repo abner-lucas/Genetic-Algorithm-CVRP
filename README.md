@@ -14,13 +14,11 @@ Para executar o algoritmo, utilize os notebooks ou o script principal:
 - `main.py`: Script principal para execução do algoritmo.
 
 ## Estrutura do Projeto
-```
-notebooks/           # Notebooks Jupyter para experimentos e testes
-results/             # Resultados das execuções do algoritmo
-src/                 # Código-fonte do projeto
-distances_matrix.csv # Matriz de distâncias
-main.py              # Script principal para execução do projeto
-```
+- `notebooks/`: Notebooks Jupyter para experimentos e testes
+- `results/`: Resultados das execuções do algoritmo
+- `src/`: Código-fonte do projeto
+- `distances_matrix.csv`: Matriz de distâncias
+- `main.py`: Script principal para execução do projeto
 
 ## Requisitos
 - `numpy`
